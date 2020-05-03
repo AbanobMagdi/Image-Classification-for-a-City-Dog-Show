@@ -6,7 +6,7 @@ and you will need install anaconda : https://docs.anaconda.com/anaconda/navigato
 
 This was my very first project for the AI Programming with Python Nanodegree from Udacity. In this project my task was to use a pre-trained image classifier to identify dog breeds.borrowing from the original info-material, as provided by Udacity.
 ## Project Goal
-* Improving my programming skills using Python  
+* Improving my programming skills using Python and lot of libraries
 ## Description:
 My city is hosting a citywide dog show and I have volunteered to help the organising committee with contestant registration. Every participant that registers must submit an image of their dog along with biographical information about their dog. The registration system tags the images based upon the biographical information. Some people are planning on registering pets that aren’t actual dogs. I need to use an already developed Python classifier to make sure the participants are dogs.
 ## My Tasks:
